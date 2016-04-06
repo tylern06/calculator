@@ -9,5 +9,4 @@ class Calculator
 		self
 	end
 
-
 end
